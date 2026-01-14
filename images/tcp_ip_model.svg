@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <style>
+    .layer { rx:10; fill:#f1f8ff; stroke:#1f6feb; stroke-width:2 }
+    .label { font:700 18px/1.2 "Segoe UI", Roboto, Arial; fill:#032d60 }
+    .sub { font:400 12px/1.2 "Segoe UI", Roboto, Arial; fill:#0b3b73 }
+    .title { font:700 20px "Segoe UI", Roboto, Arial; fill:#031a39 }
+  </style>
+  <rect x="60" y="30" width="520" height="64" class="layer"/>
+  <text x="320" y="70" class="label" text-anchor="middle">Application</text>
+  <text x="320" y="86" class="sub" text-anchor="middle">HTTP · FTP · DNS · SMTP</text>
+
+  <rect x="110" y="110" width="420" height="64" class="layer"/>
+  <text x="320" y="150" class="label" text-anchor="middle">Transport</text>
+  <text x="320" y="166" class="sub" text-anchor="middle">TCP (fiable) · UDP (rapide)</text>
+
+  <rect x="160" y="190" width="340" height="64" class="layer"/>
+  <text x="320" y="230" class="label" text-anchor="middle">Internet</text>
+  <text x="320" y="246" class="sub" text-anchor="middle">IP (routage, adressage)</text>
+
+  <rect x="210" y="270" width="260" height="64" class="layer"/>
+  <text x="320" y="310" class="label" text-anchor="middle">Accès Réseau (Link)</text>
+  <text x="320" y="326" class="sub" text-anchor="middle">Ethernet · Wi‑Fi · MAC · ARP</text>
+
+  <text x="20" y="20" class="title">Modèle TCP/IP</text>
+</svg>
