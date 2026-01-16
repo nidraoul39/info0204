@@ -182,3 +182,4 @@ et 10 est priver non routable
 - **masque** : Non applicable
 - **Nombre de réseaux possibles** : N/A
 - **Nombre de machines possibles par réseau** : N/A
+
